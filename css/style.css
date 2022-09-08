@@ -2,7 +2,7 @@
 	padding-top: 6rem;
 }
 section {
-	padding-top: 5rem;
+	padding-top: 1rem;
 }
 .merah {
 	background-color: #f9004d;
@@ -12,4 +12,7 @@ section {
 }
 .hitam {
 	background-color: #101010;
+}
+.mepet {
+	margin-top: -1px;
 }
